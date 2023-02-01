@@ -1,0 +1,104 @@
+body{
+    background-color: black !important ;
+}
+
+
+
+.back{
+  background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHgAqQMBIgACEQEDEQH/xAAaAAADAQEBAQAAAAAAAAAAAAAAAgMBBAUH/8QALBAAAwACAgEDAQgDAQEAAAAAAAECAxEhMRIEQVEiEzJhcZGhsdFSgfDBQv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD4cAAAAAABqRsoZ6SAXWuTHtjeLrsopSW2wJzPyY2lwjbvfE9CpAYakOpNUgJo1Q6fCOjFgd864LrEp4SA4/s9E7SRfPlS3Mcv3ZDxbfICgP4IxyAoAAAAAAAAAA8oyUN3wgDftPZsw3y+x4x7HupxJLun7AZqYW6I3bt/wFN290NMAKpHmCkwVnG2+gIqDpw+l3p2v9HTg9Mp5rl/HwVy3GGPK3r4XyBJypnb1Mrs8/PneV+OPifn5NzZL9Tb/wDmV0jYxaAhOP3Y6g6fs9Ixr4A53Ijk6GidIDnqRC9LRGuQMAAADUtGIeVsDUtlsePYRKS2+hcmTf0xxPz8gNkyqPpx817v4JJNt752bMlYgBYgrEDxjOnHiQE8eF0+EdmHCoW0uRscpdEvUeq8N48OqydN+0gN6n1GP088/Vb6hdnnucnqL+0zPf4LpFceDl5MrdVXL32y843Xt/oCEY+NJFPBSvq79kWvxxccO/j4/Mi229sBHyK0UYrAk0SyNT2Uy0p49/ghXL2+WBKvqfIjRV6RKnsBQAAGlFVqeX+hJNJG7dPYDVbp9aXwbMgkViQCJOiIMha7G810lwBWUkWjkhDWnTepXbNSv1H0peOP493+YDZM1Zd48G0unfz+CGx4ZwpLW7/g2Wo+nH3/AJF8WOZl3dKZT5p/92BmPDWSt63szLmmfow8v3r+v7E9R6r7RPHiTnF+Pdfn/RDYGgZsPYAZK709T+ptNvhb0L48fgBLxEulPXI2TJ7T+pz0BjEYzFAxgAAaux5JrsrIFIRVNSuSPkpX4i+TfYF3e/wRSEkvKtpe3yyULTW1uvg6F4x9eV7b/cB5l1q8rSmekukN5+f0xxH8kvKsj2+vZIbJmn061pVk/wAX0vz/AKA6d48Eq8r4f3ZXdf8AfJyZvVXnpeXEr7srpHJeWslurpumamB0TQyogmVxy3y+gKJm6f5IZSF3MLnv2QCvUrdcHNlyeXC4QZMjp8/oRbAxsRsGxWwMYMDAAAAAG8tLgUAGW6ZbGtdd/PwTj9innpakCypYuuaCN1W3yyMdbb/UW83l9M8T+7A6MnqFC8cTXl72v/P7OTbMABkx0+eCaTfXJ14canl/e/gDcWP3o6ZQiJ5M/tH+wK5cqjifvHLVtvbfIrr9RGwNbEbB0I2AN7MAAAwAAAAAAAADdjS9csQAGq3XfsYYAGjSnRkrZadewFMcKeiu9LbIeansSrbewK3l3wuiboTZjYGujHQrZmwNb2YBgGmAAAAAAAAAAAAAAAAAAAOmN5AAC7M2aAGbMbAAMAAAAAAAAAAAAAAAAP/Z);
+}
+.container-fluid{
+    margin: 20px!important;
+    margin-left: 70px !important;
+    margin-right: 70px !important;
+}
+a:link {
+    text-decoration:none !important ;
+    }
+    b, p, a:visited {
+        color:white !important;
+        }
+    a:hover{
+            color: chocolate !important ;
+        }
+        .nav-item
+        {
+            margin-left: 50px;
+        }
+    .container-fluid{
+        background-color: slategray !important;
+            padding: 35px;
+        }
+    button{
+            border-color: white!important ;
+            border-width: 3px !important ;
+            background-color: brown !important ;   
+        }
+    b{
+            font-size: 60px;
+        }
+    p{
+            font-size: 20px;
+        }.bold{
+            font-size: 20px !important;
+            margin-top: 30px !important;
+        }
+        .fa-solid{
+            margin-left: 10px;
+            margin-top: 30px;
+        }.set{
+            margin-top: 50px;
+            font-size: 30px;
+            color: aliceblue;
+        }#class{ 
+            font-size: 40px;
+            margin-top: 50px; 
+        }.my-img{
+            width: px !important;
+            border-radius: 7px !important;
+        }
+        .my-card{
+            margin-left: 40px !important;
+            margin-right: 40px;
+            margin-top: 10px;
+            border-radius: 7px !important;
+            height: 450px !important;
+        }.card-text{
+            color: black !important;
+            
+        }del{
+            font-weight: lighter !important;
+            font-size: small;
+        }
+        .swiper-slide{
+            margin-top: 30px !important;
+            margin-bottom: 30px !important;
+        }
+.card{
+    margin-top: 30px !important;
+            margin-bottom: 30px !important;
+            margin-left: 40px !important;
+            margin-right: 40px;
+            margin-top: 10px;
+            border-radius: 7px !important;
+            height: 450px !important;
+}
+footer{
+    background-color: blue;
+   
+}#my{
+    display: block !important;
+}
+#para{
+    font-size: small;
+}
+{
+    background-color: blanchedalmondf !important;
+}#colar{
+    display: flex;
+   justify-content: space-around;
+}
+
+
+        
+       
